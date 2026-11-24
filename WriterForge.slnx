@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WriterForge.App/WriterForge.App.csproj" />
+    <Project Path="src/WriterForge.Editor/WriterForge.Editor.csproj" />
+  </Folder>
+</Solution>
